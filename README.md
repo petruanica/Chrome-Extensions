@@ -1,4 +1,3 @@
-# Chrome-Extensions
-A few chrome extensions:
-- change background color
-- covid tracker
+# Background Color
+
+A Chrome extension that changes the background color of current webpage
